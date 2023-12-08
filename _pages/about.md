@@ -1,26 +1,52 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+permalink: /about/
+subtitle: PhD Candidate. KTH Royal Institute of Technology
+nav: true
+nav_order: 2
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Division of Robotics, Perception, &amp; Learning </p>
+    <p>Lindstedtsvägen 24</p>
+    <p>114 28 Stockholm,</p>
+    <p>Sweden</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a doctoral student in Machine Learning and Computer Vision, working under the supervision of Prof. [Mårten Björkman](https://www.kth.se/profile/celle) and Prof. [Hossein Azizpour](https://www.kth.se/profile/azizpour) at [KTH Royal Institute of Technology](https://www.kth.se). My research is focused on investigating the factors of implicit regularization in deep learning, as imposed by network architecture, learning algorithm and natural data.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work lies at the intersection of geometry and probability, and is aimed at characterizing generalization in deep learning by studying regularity of neural networks interpreted as functions, as well as functional symmetries in parameter space. My reseach interests include generalization, robustness, mode connectivity, hidden symmetries, and geometry of neural representations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My long-term vision is making neural networks interpetable and trust-worthy algorithms, to enable their use in mission critical and high impact applications.
+
+## Teaching
+
+In parallel with my research activity, I have served as a Teaching Assistant for the following Master-level courses:
+
+<ul>
+    <li><a href="https://www.kth.se/student/kurser/kurs/DD2412?l=en">Deep Learning, Advanced Course</a> (2019 - present)</li>
+    <li><a href="https://www.kth.se/student/kurser/kurs/DD2424?l=en">Deep Learning in Data Science</a> (2019 - present)</li>
+    <li><a href="https://www.kth.se/student/kurser/kurs/DD2437?l=en">Artificial Neural Networks and Deep Architectures</a> (2017-2019)</li>
+    <li><a href="https://www.kth.se/student/kurser/kurs/DD2395?l=en">Computer Security</a> (2016-2019)</li>
+</ul>
+
+Additionally, I have been in charge of the Machine Learning reading group at RPL from 2019 to 2022.
+
+## System Administration
+
+Together with two fellow doctoral students, since 2019 I have been administering a SLURM-based GPU cluster with a hundred GPUs, providing compute to the RPL division (100+ users).
+
+## Other
+
+I am a founding member of the <a href="https://www.gnu.org/education">GNU Education project</a>, which promotes <a href="https://www.gnu.org/philosophy/free-sw.html">free software</a> in education.
+
+I am part of the NGO <a href="https://www.hipatia.net">Hipatia</a> and co-founder of the project <a href="https://guri.hipatia.net">GURI</a>, which promote the freedom of sharing knowledge and foster life-long learning through free software.
