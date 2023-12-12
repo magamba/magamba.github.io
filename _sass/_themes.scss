@@ -45,6 +45,14 @@
   .repo-img-dark {
     display: none;
   }
+
+  .header-background .img {
+    background-image: url('../img/bground.jpg');
+    background-repeat: repeat;
+    background-position: center;
+    height: 20em;
+  }
+
 }
 
 html[data-theme='dark'] {

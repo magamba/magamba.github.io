@@ -24,9 +24,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a doctoral student in Machine Learning and Computer Vision, working under the supervision of Prof. [Mårten Björkman](https://www.kth.se/profile/celle) and Prof. [Hossein Azizpour](https://www.kth.se/profile/azizpour) at [KTH Royal Institute of Technology](https://www.kth.se). My research is focused on investigating the factors of implicit regularization in deep learning, as imposed by network architecture, learning algorithm and natural data.
 
-My work lies at the intersection of geometry and probability, and is aimed at characterizing generalization in deep learning by studying regularity of neural networks interpreted as functions, as well as functional symmetries in parameter space. My reseach interests include generalization, robustness, mode connectivity, hidden symmetries, and geometry of neural representations.
+My work lies at the intersection of geometry and probability, and is aimed at characterizing generalization in deep learning by studying regularity of neural networks interpreted as functions, as well as functional symmetries in parameter space. My research interests include generalization, robustness, mode connectivity, hidden symmetries, and geometry of neural representations.
 
-My long-term vision is making neural networks interpetable and trust-worthy algorithms, to enable their use in mission critical and high impact applications.
+My long-term vision is making neural networks interpretable and trust-worthy algorithms, to further their use in mission critical and high impact applications.
 
 ## Teaching
 
