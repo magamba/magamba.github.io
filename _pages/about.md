@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /about/
-subtitle: PhD Candidate. KTH Royal Institute of Technology
+subtitle: Researcher. KTH Royal Institute of Technology
 nav: true
 nav_order: 2
 
@@ -22,7 +22,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a doctoral student in Machine Learning and Computer Vision, working under the supervision of Prof. [Mårten Björkman](https://www.kth.se/profile/celle) and Prof. [Hossein Azizpour](https://www.kth.se/profile/azizpour) at [KTH Royal Institute of Technology](https://www.kth.se). My research is focused on investigating the factors of implicit regularization in deep learning, as imposed by network architecture, learning algorithm and natural data.
+I am working as a researcher in Deep Learning as part of Prof. [Hossein Azizpour](https://www.kth.se/profile/azizpour)'s group at [KTH Royal Institute of Technology](https://www.kth.se). My research is focused on investigating the factors of implicit regularization in supervised and self-supervised learning, as imposed by network architecture, learning algorithm and natural data.
+
+I hold a Doctoral degree in Computer Science from KTH, which I obtained in 2024. [My thesis](/assets/pdf/thesis.pdf) studied implicit regularization of deep networks interpreted as spline functions, focusing on emerging smoothness properties of overparameterized networks.
 
 My work lies at the intersection of geometry and probability, and is aimed at characterizing generalization in deep learning by studying regularity of neural networks interpreted as functions, as well as functional symmetries in parameter space. My research interests include generalization, robustness, mode connectivity, hidden symmetries, and geometry of neural representations.
 
@@ -30,20 +32,20 @@ My long-term vision is making neural networks interpretable and trust-worthy alg
 
 ## Teaching
 
-In parallel with my research activity, I have served as a Teaching Assistant for the following Master-level courses:
+I served as a Teaching Assistant for the following Master-level courses:
 
 <ul>
-    <li><a href="https://www.kth.se/student/kurser/kurs/DD2412?l=en">Deep Learning, Advanced Course</a> (2019 - present)</li>
-    <li><a href="https://www.kth.se/student/kurser/kurs/DD2424?l=en">Deep Learning in Data Science</a> (2019 - present)</li>
+    <li><a href="https://www.kth.se/student/kurser/kurs/DD2412?l=en">Deep Learning, Advanced Course</a> (2019 - 2024)</li>
+    <li><a href="https://www.kth.se/student/kurser/kurs/DD2424?l=en">Deep Learning in Data Science</a> (2019 - 2024)</li>
     <li><a href="https://www.kth.se/student/kurser/kurs/DD2437?l=en">Artificial Neural Networks and Deep Architectures</a> (2017-2019)</li>
     <li><a href="https://www.kth.se/student/kurser/kurs/DD2395?l=en">Computer Security</a> (2016-2019)</li>
 </ul>
 
-Additionally, I have been in charge of the Machine Learning reading group at RPL from 2019 to 2022.
+Additionally, I was running the Machine Learning reading group at RPL from 2019 to 2022.
 
 ## System Administration
 
-Together with two fellow doctoral students, since 2019 I have been administering a SLURM-based GPU cluster with a hundred GPUs, providing compute to the RPL division (100+ users).
+Between 2019 and 2024 I have been in charge of procuring and administering a SLURM-based GPU cluster with a hundred GPUs, providing compute to the RPL division (100+ users).
 
 ## Other
 
